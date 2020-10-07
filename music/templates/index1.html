@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>sad button</title>
+</head>
+<body>
+     <h1>Click button to go to sad songs page</h1>
+
+
+<!--        <form action="/musicbeats/" method="post">-->
+<!--            <input type="submit" value="Click me" >-->
+<!--        </form>-->
+
+        <form action="/external/" method="post">
+            {% csrf_token %}
+            <input type="submit" value="Click me" >
+
+            {{out}}
+        </form>
+</body>
+</html>
