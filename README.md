@@ -11,7 +11,7 @@
 2.	Emotion Detection — Classifying the emotion on the face as happy, angry, sad, neutral, surprise, disgust or fear
 #
 Database: IndexDb
-	It will store data inside a user's browser. Because it lets you create web applications with rich query abilities regardless of network availability.
-	your applications can work both online and offline.
-	IndexedDB is a low-level API for client-side storage of significant amounts of structured data, including files/blobs. 
-	This API uses indexes to enable high-performance searches of this data. it is less useful for storing larger amounts of structured data.
+->	It will store data inside a user's browser. Because it lets you create web applications with rich query abilities regardless of network availability.
+->	your applications can work both online and offline.
+->	IndexedDB is a low-level API for client-side storage of significant amounts of structured data, including files/blobs. 
+->	This API uses indexes to enable high-performance searches of this data. it is less useful for storing larger amounts of structured data.
