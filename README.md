@@ -1,5 +1,5 @@
 # Facial-Emotion-Recognition-integrating-music-player
--> Recognition of user emotions and mapping it with songs
+-> Recognition of user emotions and mapping it with songs using Machine Learning and Computer Vision
 #
 -> The aim is to identify the expression on the human face that is captured by the webcam. whatever the emotion detected in the webcam according to that one can be directed to the respective emotion song page like a happy, sad, angry, surprise.
 #
